@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Zach, I am a sophomore at Washington State University
+- 👋 Hi, I’m Zach, I am a junior at Washington State University majoring in Data Analytics with an emphasis on business
 - 👀 I’m interested in mechanical keyboards and video games among other things
 - 🌱 I’m currently learning computer science and data analytics
 - 💞️ I’m looking to collaborate on ...
